@@ -1,0 +1,16 @@
+{
+    "from_email": "noreply@apple.com",
+    "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://amlyze.io/&ved=2ahUKEwj5keHkp9ONAxV5oGMGHdsxB68QFnoECCYQAQ&usg=AOvVaw26myHgp8OcO4k6SywWOn5V",
+    "subjects": "config/subjects.txt",
+    "sender_name_list": "config/senders.txt",
+    "letter": "letter/ap.html",
+    "logo": "images/led.png",
+    "image": "images/mobile.png",
+    "icon": "images/warning.png",
+    "mail_list": "list/test.txt",
+    "x_priority": "3",
+    "x_ms_mail_priority": "Normal",
+    "pause_after": 100,
+    "pause_duration": 60,
+    "delay_per_email": 1
+}
